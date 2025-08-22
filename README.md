@@ -2,70 +2,96 @@
   <img src="https://github.com/Pichikachandu/Chandu-Pichika/raw/main/your-photo.jpg" width="150" alt="Chandu Pichika"/>
 </p>
 
-<h1 align="center">🧠 Chandu.exe has entered the chat</h1>
-
+<h1 align="center">Pichika Chandu</h1>
 <p align="center">
-  Welcome to my brain’s public repo.<br/>
-  Bug-free (90% of the time), coffee-powered (110% of the time).  
+Full Stack Developer | MERN Stack | Python & Java Enthusiast <br/>
+Sullurupeta, Andhra Pradesh, India
 </p>
 
 ---
 
-## 👨‍💻 Who Am I?
+## 👨‍💻 About Me
+I am a **Full Stack Developer** with expertise in **MERN stack**, Python, and Java. I build scalable web applications, cloud-hosted platforms, and AI-powered solutions. Passionate about learning new technologies, solving real-world problems, and delivering high-quality code.  
 
-🎓 **Bachelor in Computer Science & Engineering** (T.J.S Engineering College, 2022-2026)  
-*(Yeah, I talk to code and sometimes it listens.)*  
-
-💻 **MERN Stack Developer | Python & Java Enthusiast**  
-
-🔍 Currently decoding:  
-- 📚 DSA (Data Structures & Algorithms)  
-- 🚀 FAANG Interview Boss Levels  
-- ☁️ Cloud Computing + AI/ML Projects  
-
-💡 Debugged my way from `print("Hello World")` to **full-stack web apps & AI pipelines**, and I’m not done yet.  
+**Currently Focusing On:**  
+- Data Structures & Algorithms (DSA)  
+- FAANG Interview Preparation  
+- Cloud Computing & AI/ML Projects  
 
 ---
 
-## 🌱 Passion Projects  
-- ☕ Turning caffeine into code  
-- 📦 Running `npm install` like it’s a ritual  
-- 🤖 Building automation tools & AI-powered applications  
-- 📖 Reading error logs like bedtime stories  
+## 🛠️ Technical Skills
+
+**Languages:** HTML, CSS, Java, JavaScript, Python, C  
+**Frontend:** React.js, Tailwind CSS, Vite, Next.js  
+**Backend:** Node.js, Express.js, Flask, REST APIs  
+**Databases:** MongoDB, MySQL, PostgreSQL  
+**Cloud & Tools:** AWS (EC2, S3, RDS, Lambda), Git, GitHub, Linux CLI, Canva  
+**AI Tools:** ChatGPT, Copilot, Cursor, Windsurf  
 
 ---
 
-## 🛠️ Tech Stack  
+## 💼 Experience
 
-- **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Database:** MongoDB, SQL  
-- **Languages:** Python, Java, C, JavaScript  
-- **Tools:** Git, VS Code, Canva, Linux basics  
-- **Other:** DSA, Cloud Basics, Full-Stack Application Architecture  
+**AWS Project Intern** – *Naan Mudhalvaan* | Nov 2024 – Dec 2024 | Remote  
+- Developed a cloud-hosted virtual classroom using AWS EC2, S3, and RDS.  
+- Built responsive web applications with Python Flask backend and dynamic frontend.  
+- Collaborated using Git/GitHub and optimized AWS resource usage.  
 
----
-
-## 🚀 Featured Projects  
-
-1. 🏫 **Classroom Management System** – MERN Stack app with dashboards for Principal, Teacher, and Students.  
-2. 🎥 **YouTube Video Downloader** – React + Node.js app to download videos from channels/playlists.  
-3. 🩺 **Health & Wellness Coaching Agent** – Python + Voiceflow app giving wellness scores and recommendations.  
-4. 🧬 **Tumor Prediction App** – ML-based web app predicting benign/malignant tumors, hosted on Streamlit.  
-5. 🌐 **Portfolio Website** – [Check it here](https://portfoliochandupichika.netlify.app/)  
+**Web Developer Intern** – *MURVEN Design Solutions* | Dec 2024 – Feb 2025 | Remote  
+- Developed serverless PDF processing application using AWS Lambda and Node.js.  
+- Created RESTful API endpoints for backend processing and integrated AWS services.  
+- Enhanced skills in serverless architecture, API development, and cloud deployment.  
 
 ---
 
-## 📂 Portfolio  
-👉 [Explore my portfolio](https://portfoliochandupichika.netlify.app/)  
+## 🎓 Education
+
+**Bachelor of Engineering in Computer Science & Engineering** – T.J.S Engineering College, Chennai, India (2022–2026)  
+- GPA: 8.5/10  
+- Relevant Coursework: AR/VR Development, Web & App Development, Algorithms, Database Management, Cloud Services  
 
 ---
 
-## 📫 Connect with Me  
+## 🚀 Featured Projects
 
-- 📧 **Email:** chandupichika0@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/chandupichika](https://www.linkedin.com/in/chandupichika)  
-- 🖥️ **GitHub:** [github.com/Pichikachandu](https://github.com/Pichikachandu)  
+1. **DocSpot – Healthcare Appointment Platform (MERN)**  
+   - Patient, doctor, and admin portals with appointment management, payment integration, and notifications.  
+   - Backend: Node.js, Express, MongoDB | Frontend: React, Tailwind CSS  
+
+2. **JobBoard Management System (MERN)**  
+   - Dynamic job board with REST APIs and responsive UI.  
+   - Hosted: Frontend on Vercel, Backend on Render  
+
+3. **Enhanced Video Progress Tracker (React.js, Next.js, Node.js)**  
+   - Intelligent video tracker with skip detection and cross-device progress sync.  
+
+4. **YouTube Downloader Website (Python Flask)**  
+   - Download videos, playlists, and channels with a smooth user experience.  
+
+5. **Health & Wellness Coaching Agent (Python + Voiceflow)**  
+   - AI-powered wellness score and personalized recommendations  
+
+6. **Tumor Prediction App (Machine Learning)**  
+   - Predicts benign/malignant tumors using ML models, hosted on Streamlit  
+
+---
+
+## 🏆 Certifications
+- Certified MERN Stack Developer – Apna College  
+- Frontend Developer – META Certified (Coursera)  
+- AWS Certified Developer – Naan Mudhalvaan Program  
+- HackerRank: SQL, Node.js, JavaScript  
+
+---
+
+## 📫 Connect With Me
+
+- **Email:** chandupichika0@gmail.com  
+- **Mobile:** +91 8106433554  
+- **LinkedIn:** [linkedin.com/in/chandupichika](https://www.linkedin.com/in/chandupichika)  
+- **GitHub:** [github.com/Pichikachandu](https://github.com/Pichikachandu)  
+- **Portfolio:** [portfoliochandupichika.netlify.app](https://portfoliochandupichika.netlify.app/)  
 
 ---
 
