@@ -69,11 +69,7 @@ I am a **Full Stack Developer** with expertise in **MERN stack**, Python, and Ja
 4. **YouTube Downloader Website (Python Flask)**  
    - Download videos, playlists, and channels with a smooth user experience.  
 
-5. **Health & Wellness Coaching Agent (Python + Voiceflow)**  
-   - AI-powered wellness score and personalized recommendations  
 
-6. **Tumor Prediction App (Machine Learning)**  
-   - Predicts benign/malignant tumors using ML models, hosted on Streamlit  
 
 ---
 
@@ -89,9 +85,9 @@ I am a **Full Stack Developer** with expertise in **MERN stack**, Python, and Ja
 
 - **Email:** chandupichika0@gmail.com  
 - **Mobile:** +91 8106433554  
-- **LinkedIn:** [linkedin.com/in/chandupichika](https://www.linkedin.com/in/chandupichika)  
+- **LinkedIn:** [linkedin.com/in/Pichika-chandu/]([https://www.linkedin.com/in/chandupichika](https://www.linkedin.com/in/Pichika-chandu/))  
 - **GitHub:** [github.com/Pichikachandu](https://github.com/Pichikachandu)  
-- **Portfolio:** [portfoliochandupichika.netlify.app](https://portfoliochandupichika.netlify.app/)  
+- **Portfolio:** [portfoliochandupichika.netlify.app]()  
 
 ---
 
