@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Pichikachandu/Chandu-Pichika/raw/main/gitprofile.jpeg" width="150" alt="Chandu Pichika"/>
+  <img src="https://github.com/Pichikachandu/Chandu-Pichika/raw/main/Pichikachandu.png" width="150" alt="Chandu Pichika"/>
 </p>
 
 <h1 align="center">Pichika Chandu</h1>
