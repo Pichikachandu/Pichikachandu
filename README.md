@@ -4,91 +4,114 @@
 
 <h1 align="center">Pichika Chandu</h1>
 <p align="center">
-Full Stack Developer | MERN Stack | Python & Java Enthusiast <br/>
-Sullurupeta, Andhra Pradesh, India
+Full Stack Developer | MERN Stack | AI Integration <br/>
+Chennai, Tamil Nadu, India
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I am a **Full Stack Developer** with expertise in **MERN stack**, Python, and Java. I build scalable web applications, cloud-hosted platforms, and AI-powered solutions. Passionate about learning new technologies, solving real-world problems, and delivering high-quality code.  
+I am a **Full Stack Developer** with hands-on experience in the **MERN stack**, backend development, and AI integration. I specialize in building scalable web applications, developing REST APIs, and deploying cloud-based solutions.
 
-**Currently Focusing On:**  
-- Data Structures & Algorithms (DSA)  
-- FAANG Interview Preparation  
-- Cloud Computing & AI/ML Projects  
+- Strong in **Node.js, Express.js, and API development**
+- Experience with **AI integration using Google Gemini API**
+- Skilled in **cloud deployment (AWS EC2)**  
+- Passionate about **problem solving and clean code**
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:** HTML, CSS, Java, JavaScript, Python, C  
-**Frontend:** React.js, Tailwind CSS, Vite, Next.js  
-**Backend:** Node.js, Express.js, Flask, REST APIs  
-**Databases:** MongoDB, MySQL, PostgreSQL  
-**Cloud & Tools:** AWS (EC2, S3, RDS, Lambda), Git, GitHub, Linux CLI, Canva  
-**AI Tools:** ChatGPT, Copilot, Cursor, Windsurf  
+**Languages:** JavaScript (ES6+), Python, Java (Basics)  
+**Frontend:** React.js, HTML, CSS  
+**Backend:** Node.js, Express.js, REST APIs, JWT Authentication  
+**Databases:** MongoDB, MySQL  
+**AI Integration:** Google Gemini API, Prompt Engineering  
+**Cloud:** AWS EC2  
+**Tools:** Git, GitHub, Postman, VS Code  
 
 ---
 
 ## 💼 Experience
 
-**AWS Project Intern** – *Naan Mudhalvaan* | Nov 2024 – Dec 2024 | Remote  
-- Developed a cloud-hosted virtual classroom using AWS EC2, S3, and RDS.  
-- Built responsive web applications with Python Flask backend and dynamic frontend.  
-- Collaborated using Git/GitHub and optimized AWS resource usage.  
+**Full Stack Developer Intern – CyberMind Works**  
+📍 Chennai | Aug 2024 – Jan 2025  
+- Developed REST APIs using Node.js and Express.js  
+- Implemented JWT authentication for secure systems  
+- Managed MongoDB and MySQL databases  
+- Built middleware for validation and error handling  
+- Integrated third-party APIs  
+- Deployed backend services on AWS EC2  
+- Tested APIs using Postman  
 
-**Web Developer Intern** – *MURVEN Design Solutions* | Dec 2024 – Feb 2025 | Remote  
-- Developed serverless PDF processing application using AWS Lambda and Node.js.  
-- Created RESTful API endpoints for backend processing and integrated AWS services.  
-- Enhanced skills in serverless architecture, API development, and cloud deployment.  
+**Project Intern – Naan Mudhalvaan**  
+📍 Chennai | 2025  
+- Developed Classroom Management System using Python & Web Tech  
+- Built frontend UI and backend logic for managing users  
+- Designed REST APIs for data operations  
+- Deployed application on AWS EC2  
+- Handled server setup and cloud configuration  
+
+---
+
+## 🚀 Projects
+
+### 🔹 AI Resume Analyzer / Chatbot
+**Tech:** React.js, Node.js, Gemini API  
+- Built AI-powered resume analysis tool  
+- Integrated Google Gemini API for intelligent responses  
+- Developed backend APIs and prompt optimization  
+
+---
+
+### 🔹 Task Manager (MERN + AI)
+**Tech:** MongoDB, Express.js, React.js, Node.js  
+- Full-stack task management system  
+- CRUD operations with REST APIs  
+- AI-based suggestions for task descriptions  
+
+---
+
+### 🔹 CineFlux – Movie Web App
+**Tech:** React.js, REST APIs  
+- Built dynamic UI using reusable components  
+- Integrated third-party APIs for real-time movie data  
+- Implemented routing and state management  
+
+---
+
+### 🔹 Classroom Management System
+**Tech:** HTML, CSS, JavaScript, Python, AWS  
+- Developed system for managing students and teachers  
+- Implemented backend logic and REST APIs  
+- Deployed on AWS EC2 with server configuration  
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering in Computer Science & Engineering** – T.J.S Engineering College, Chennai, India (2022–2026)  
-- GPA: 8.5/10  
-- Relevant Coursework: AR/VR Development, Web & App Development, Algorithms, Database Management, Cloud Services  
+**B.E – Computer Science & Engineering**  
+T.J.S Engineering College (Anna University) | 2022 – 2026  
+CGPA: 8.5 / 10  
 
 ---
 
-## 🚀 Featured Projects
-
-1. **DocSpot – Healthcare Appointment Platform (MERN)**  
-   - Patient, doctor, and admin portals with appointment management, payment integration, and notifications.  
-   - Backend: Node.js, Express, MongoDB | Frontend: React, Tailwind CSS  
-
-2. **JobBoard Management System (MERN)**  
-   - Dynamic job board with REST APIs and responsive UI.  
-   - Hosted: Frontend on Vercel, Backend on Render  
-
-3. **Enhanced Video Progress Tracker (React.js, Next.js, Node.js)**  
-   - Intelligent video tracker with skip detection and cross-device progress sync.  
-
-4. **YouTube Downloader Website (Python Flask)**  
-   - Download videos, playlists, and channels with a smooth user experience.  
-
-
+## 🏆 Certifications & Activities
+- MERN Stack Developer – Apna College  
+- AWS Cloud Internship – TNSDC  
+- HackerRank Certified JavaScript Developer  
+- Hackathon Participant – Terralogic  
 
 ---
 
-## 🏆 Certifications
-- Certified MERN Stack Developer – Apna College  
-- Frontend Developer – META Certified (Coursera)  
-- AWS Certified Developer – Naan Mudhalvaan Program  
-- HackerRank: SQL, Node.js, JavaScript  
+## 📫 Contact
+
+- 📧 Email: chandupichika0@gmail.com  
+- 📱 Phone: +91 8106433554  
+- 🔗 LinkedIn: https://www.linkedin.com/in/Pichika-chandu/  
+- 💻 GitHub: https://github.com/Pichikachandu  
+- 🌐 Portfolio: https://pichikachandu.vercel.app  
 
 ---
 
-## 📫 Connect With Me
-
-- **Email:** chandupichika0@gmail.com  
-- **Mobile:** +91 8106433554  
-- **LinkedIn:** [linkedin.com/in/Pichika-chandu/]([https://www.linkedin.com/in/chandupichika](https://www.linkedin.com/in/Pichika-chandu/))  
-- **GitHub:** [github.com/Pichikachandu](https://github.com/Pichikachandu)  
-- **Portfolio:** [portfoliochandupichika.netlify.app]()  
-
----
-
-⭐ If you like my work, feel free to give a star on my repositories!
+⭐ Open to Full-Stack Developer Intern roles | Immediate Joiner | Ready to Relocate
